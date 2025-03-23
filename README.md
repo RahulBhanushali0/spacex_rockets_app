@@ -11,11 +11,14 @@ A Flutter application that displays a list of SpaceX rockets and their details. 
 - **Pull-to-Refresh**: Allows users to refresh data and fetch the latest information from the API.
 - **Riverpod State Management**: Efficiently manages app state using Riverpod.
 
-## Screenshots 📸
+[//]: # (## Screenshots 📸)
 
-| Rocket List Screen | Rocket Details Screen |
-|--------------------|-----------------------|
-| <img src="screenshots/rocket_list.png" width="300"> | <img src="screenshots/rocket_details.png" width="300"> |
+[//]: # ()
+[//]: # (| Rocket List Screen | Rocket Details Screen |)
+
+[//]: # (|--------------------|-----------------------|)
+
+[//]: # (| <img src="screenshots/rocket_list.png" width="300"> | <img src="screenshots/rocket_details.png" width="300"> |)
 
 ## Tech Stack 🛠️
 
